@@ -26,7 +26,7 @@ public class LogicHandler : MonoBehaviour
 
     }
 
-    void SpawnLogicExecutioner(float[] positions)
+    public void SpawnLogicExecutioner(float[] positions)
     {
 
         if (PrefabLogicExecutioner == null)
