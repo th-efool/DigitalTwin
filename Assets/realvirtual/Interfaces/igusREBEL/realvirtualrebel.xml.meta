@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9b50f2b653b40b4480412cd2a2fe5c0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Interfaces/igusREBEL/realvirtualrebel.xml
+  uploadId: 780727

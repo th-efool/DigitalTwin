@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 653df863bd51e7f4397a77a0232e178f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/PLCInputFloat.prefab
+  uploadId: 780727

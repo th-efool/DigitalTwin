@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ad4f460a15537ba4eac48481d4c6cd1f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Editor/ComponentValidation/ExampleCustomRule.cs
+  uploadId: 780727

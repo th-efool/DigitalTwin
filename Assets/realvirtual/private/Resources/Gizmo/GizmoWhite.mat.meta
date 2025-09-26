@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8fc6715cc700a9448c71f3570a5894f
+timeCreated: 1434315817
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Resources/Gizmo/GizmoWhite.mat
+  uploadId: 780727

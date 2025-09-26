@@ -1,0 +1,133 @@
+// realvirtual.io (formerly game4automation) (R) a Framework for Automation Concept Design, Virtual Commissioning and 3D-HMI
+// Copyright(c) 2019 realvirtual GmbH - Usage of this source code only allowed based on License conditions see https://realvirtual.io/unternehmen/lizenz  
+
+// EXAMPLE: Custom Component Validation Rule
+// This file demonstrates how to create and register custom validation rules
+// Rename this file to .cs (remove .example) and modify as needed
+
+#if UNITY_2021_2_OR_NEWER
+using System;
+using UnityEngine;
+using UnityEditor;
+
+namespace realvirtual.Examples
+{
+    /// <summary>
+    /// Example of how to create custom validation rules without modifying the core system
+    /// </summary>
+    [InitializeOnLoad]
+    public static class MyCustomValidationRules
+    {
+        static MyCustomValidationRules()
+        {
+            // Register custom rules after the system is initialized
+            KinematicChangedEvent.OnSystemInitialized += RegisterCustomRules;
+        }
+        
+        private static void RegisterCustomRules()
+        {
+            // Register your custom rules
+            ComponentValidation.RegisterRule(new PreventSensorOnMovingParts());
+            ComponentValidation.RegisterRule(new AutoAddRequiredComponents());
+            
+            Debug.Log("[MyCustomValidationRules] Custom validation rules registered");
+        }
+    }
+    
+    /// <summary>
+    /// Example rule: Prevent Sensor components on GameObjects with Drive
+    /// </summary>
+    public class PreventSensorOnMovingParts : IComponentValidationRule
+    {
+        public int Priority => 400; // Higher priority executes later
+        public string RuleName => "Prevent Sensor on Moving Parts";
+        
+        public bool ShouldProcess(Type componentType)
+        {
+            return typeof(Sensor).IsAssignableFrom(componentType);
+        }
+        
+        public void OnComponentAdded(GameObject go, Type componentType)
+        {
+            // Check if this GameObject has a Drive
+            var drive = go.GetComponent<Drive>();
+            if (drive != null)
+            {
+                ComponentValidation.LogValidationAction(
+                    RuleName,
+                    $"Sensor '{componentType.Name}' added to moving GameObject. Consider placing on static parent instead.",
+                    go
+                );
+                
+                // Optionally remove the sensor (uncomment if desired)
+                // var sensor = go.GetComponent(componentType);
+                // if (sensor != null)
+                // {
+                //     ComponentValidation.LogValidationAction(
+                //         RuleName,
+                //         "Removed",
+                //         componentType.Name,
+                //         go,
+                //         "Sensors should not be on moving parts"
+                //     );
+                //     Undo.DestroyObjectImmediate(sensor);
+                // }
+            }
+        }
+    }
+    
+    /// <summary>
+    /// Example rule: Automatically add required components
+    /// </summary>
+    public class AutoAddRequiredComponents : IComponentValidationRule
+    {
+        public int Priority => 500;
+        public string RuleName => "Auto Add Required Components";
+        
+        public bool ShouldProcess(Type componentType)
+        {
+            // Process when specific components are added
+            return componentType == typeof(TransportSurface);
+        }
+        
+        public void OnComponentAdded(GameObject go, Type componentType)
+        {
+            if (componentType == typeof(TransportSurface))
+            {
+                // Check if it has required components
+                var collider = go.GetComponent<Collider>();
+                if (collider == null)
+                {
+                    ComponentValidation.LogValidationAction(
+                        RuleName,
+                        "Added",
+                        "BoxCollider",
+                        go,
+                        "TransportSurface requires a Collider"
+                    );
+                    
+                    // Add a BoxCollider
+                    Undo.AddComponent<BoxCollider>(go);
+                }
+                
+                // Check for Rigidbody
+                var rb = go.GetComponent<Rigidbody>();
+                if (rb == null)
+                {
+                    ComponentValidation.LogValidationAction(
+                        RuleName,
+                        "Added",
+                        "kinematic Rigidbody",
+                        go,
+                        "TransportSurface works better with Rigidbody"
+                    );
+                    
+                    rb = Undo.AddComponent<Rigidbody>(go);
+                    rb.isKinematic = true;
+                }
+            }
+        }
+    }
+    
+}
+#endif

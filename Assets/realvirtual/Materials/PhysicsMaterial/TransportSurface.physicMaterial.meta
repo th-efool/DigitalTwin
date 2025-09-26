@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f841d618c941d0b419d37150a2e37afc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/PhysicsMaterial/TransportSurface.physicMaterial
+  uploadId: 780727

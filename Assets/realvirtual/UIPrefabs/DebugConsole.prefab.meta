@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2101ea9abc99cb449815bd63bc20cc5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/UIPrefabs/DebugConsole.prefab
+  uploadId: 780727

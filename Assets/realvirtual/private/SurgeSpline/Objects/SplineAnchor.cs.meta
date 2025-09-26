@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 486ab05eb713a42cbb73a3d0cadf09ed
+timeCreated: 1483118697
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/SurgeSpline/Objects/SplineAnchor.cs
+  uploadId: 780727

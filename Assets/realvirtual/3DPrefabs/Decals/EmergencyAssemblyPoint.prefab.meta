@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 34605b07b315ee09a931b3003f9aef3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Decals/EmergencyAssemblyPoint.prefab
+  uploadId: 780727

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 960d84ddf8a382244803239e90e6e9b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Animations/LiftAndDump.anim
+  uploadId: 780727

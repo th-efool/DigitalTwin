@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e8fe71bd7a0c4dd468d6a044b07f0c7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/LogicSteps/LogicStep_WaitForDrivesAtTarget.cs
+  uploadId: 780727

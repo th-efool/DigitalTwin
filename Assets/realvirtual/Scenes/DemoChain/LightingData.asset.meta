@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 428f958d6d2aa3e49a2e04b9c753223b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DemoChain/LightingData.asset
+  uploadId: 780727

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f91916dd8b1a203489c8e0ba6d820175
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/ScaraRobot.prefab
+  uploadId: 780727

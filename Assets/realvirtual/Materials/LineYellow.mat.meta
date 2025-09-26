@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c28ef6f4b1666df4abf3c82c08793a9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/LineYellow.mat
+  uploadId: 780727

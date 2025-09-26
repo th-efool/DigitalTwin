@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edf2ac73f7bc3064c96d53009106dc53
+timeCreated: 1563307881
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/IngameDebugConsole/README.txt
+  uploadId: 780727

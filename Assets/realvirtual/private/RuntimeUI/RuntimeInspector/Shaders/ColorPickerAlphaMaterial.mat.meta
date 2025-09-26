@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24b79d746a3c93c4993f5f224fed1991
+timeCreated: 1429510354
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/RuntimeInspector/Shaders/ColorPickerAlphaMaterial.mat
+  uploadId: 780727

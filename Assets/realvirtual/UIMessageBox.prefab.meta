@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3c0c1ffacad32a04cae0a923ecd348ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/UIMessageBox.prefab
+  uploadId: 780727

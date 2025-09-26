@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b7abd0d26df491409955cf8ef9c590e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Resources/Testing/TestingWithSensor.prefab
+  uploadId: 780727

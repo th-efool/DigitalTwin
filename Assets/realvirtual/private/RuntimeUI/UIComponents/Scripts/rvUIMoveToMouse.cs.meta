@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f72b1e5514010d94b90aac9f81ad98c0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/UIComponents/Scripts/rvUIMoveToMouse.cs
+  uploadId: 780727

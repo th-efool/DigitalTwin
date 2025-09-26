@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21acefd7b202d9b4dbe9ef0dc1e7f6b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/CartonBox.prefab
+  uploadId: 780727

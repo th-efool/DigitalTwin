@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f47bcbcab72d27045adea42b2fab1e31
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/SnapPoints/SnapIn.prefab
+  uploadId: 780727

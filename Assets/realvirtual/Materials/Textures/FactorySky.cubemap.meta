@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac537fef8ea279d41b89d9f08405a07f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/Textures/FactorySky.cubemap
+  uploadId: 780727

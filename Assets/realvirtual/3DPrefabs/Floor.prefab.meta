@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e02b84f21f997274394c84b613549f23
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Floor.prefab
+  uploadId: 780727

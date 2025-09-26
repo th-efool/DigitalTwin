@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fe197980873e6847aad2c7ec63b094f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/WindowSlideButton.prefab
+  uploadId: 780727

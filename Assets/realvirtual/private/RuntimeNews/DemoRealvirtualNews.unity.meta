@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d74a025dc6d6b7d4bbed35843e0b90a2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeNews/DemoRealvirtualNews.unity
+  uploadId: 780727

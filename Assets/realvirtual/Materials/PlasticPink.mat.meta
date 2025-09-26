@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eb9394a9bef77404b9a52c16626a3c2a
+timeCreated: 1524253754
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/PlasticPink.mat
+  uploadId: 780727

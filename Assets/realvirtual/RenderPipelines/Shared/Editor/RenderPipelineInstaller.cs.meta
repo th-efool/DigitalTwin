@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e68fd8e55e833a46aa9ba585e66fb6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Shared/Editor/RenderPipelineInstaller.cs
+  uploadId: 780727

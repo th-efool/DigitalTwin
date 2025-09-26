@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9788fe90deec8d4db55e3ec47498f57
+timeCreated: 1510735565
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/StandardWithCut.shader
+  uploadId: 780727

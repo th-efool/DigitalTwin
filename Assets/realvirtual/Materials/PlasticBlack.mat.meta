@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c9da377632fe6b54eaafff7d32acdb1f
+timeCreated: 1524253754
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/PlasticBlack.mat
+  uploadId: 780727

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 466e67dabd1db22468246c39eddb6c3f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/IngameDebugConsole/Editor/IngameDebugConsole.Editor.asmdef
+  uploadId: 780727

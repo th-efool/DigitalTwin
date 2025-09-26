@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43d661aec5881414a839bc2c5511dca4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/Resources/Tooltip.prefab
+  uploadId: 780727

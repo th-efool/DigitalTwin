@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6cfb3b89e9199894c883fbda4fb4c78d
+timeCreated: 1524495719
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/ABB_IRB6700_175_305.prefab
+  uploadId: 780727

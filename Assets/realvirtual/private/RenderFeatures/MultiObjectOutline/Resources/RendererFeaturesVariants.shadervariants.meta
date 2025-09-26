@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b98de1bab93cd8c49bbc64bcf649d33b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 20000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RenderFeatures/MultiObjectOutline/Resources/RendererFeaturesVariants.shadervariants
+  uploadId: 780727

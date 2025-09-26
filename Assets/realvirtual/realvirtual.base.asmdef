@@ -1,0 +1,37 @@
+{
+    "name": "realvirtual.base",
+    "rootNamespace": "",
+    "references": [
+        "NaughtyAttributes.Core",
+        "Cinemachine",
+        "Unity.Recorder.Base",
+        "Unity.Recorder.Editor",
+        "Unity.Postprocessing.Runtime",
+        "AGXUnity",
+        "realvirtual.spacenavigator",
+        "BakingSheet",
+        "Unity.Behavior",
+        "Unity.TextMeshPro",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Universal.Editor",
+        "Unity.RenderPipelines.Universal.Shaders",
+        "Unity.RenderPipeline.Universal.ShaderLibrary",
+        "Unity.RenderPipelines.Universal.2D.Runtime",
+        "Unity.RenderPipelines.Universal.Config.Runtime",
+        "",
+        "IngameDebugConsole.Runtime",
+        "Unity.Splines",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Switch"
+    ],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

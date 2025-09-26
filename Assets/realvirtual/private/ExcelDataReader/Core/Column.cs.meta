@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0070fc6ff4478eb44ae94460b7c3dc13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/ExcelDataReader/Core/Column.cs
+  uploadId: 780727

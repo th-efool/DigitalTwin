@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 485d9844a4266554289c41a2fdcbdef6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RenderFeatures/MultiObjectOverlay/Resources/Overlay_old.shader
+  uploadId: 780727

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 860a7856e2f7b4844acd8043244a6f01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Can/Materials/Can.physicMaterial
+  uploadId: 780727

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cc52e0d076721a45a9f731f9fcbe2ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Scenes/Test-Materials/White.mat
+  uploadId: 780727

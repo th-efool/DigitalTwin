@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dab17a3453535e9409a0b29cf1fe6fea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/ExcelDataReader/Core/OfficeCrypto/RC4Encryption.cs
+  uploadId: 780727

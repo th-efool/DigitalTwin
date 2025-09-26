@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 579db21888988b943877442cd71ff3e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/SensorBeam.prefab
+  uploadId: 780727

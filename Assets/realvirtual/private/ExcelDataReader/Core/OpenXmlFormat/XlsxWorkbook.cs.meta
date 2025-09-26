@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e08df2ef9f1e0eb42a68b5819edd77fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/ExcelDataReader/Core/OpenXmlFormat/XlsxWorkbook.cs
+  uploadId: 780727

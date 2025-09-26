@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dadf161c095a8294dab5a2b1d18d310c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/Info.prefab
+  uploadId: 780727

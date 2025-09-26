@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 384fbae8d521c1145ba01829c9d3112b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Can/CanRoot.prefab
+  uploadId: 780727

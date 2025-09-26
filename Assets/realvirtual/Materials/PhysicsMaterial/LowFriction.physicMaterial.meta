@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0aae090c1b65b0f4fa981015b271d5d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/PhysicsMaterial/LowFriction.physicMaterial
+  uploadId: 780727

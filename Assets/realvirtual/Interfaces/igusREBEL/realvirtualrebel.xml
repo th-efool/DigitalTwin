@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Program>
+    <Header RobotName="igus REBEL-6DOF" RobotType="REBEL-6DOF-02" GripperType="" Software="iRC V902-14-003" VelocitySetting="0" />
+    <Joint AbortCondition="False" Nr="1" Source="Numerical" velPercent="100" acc="100" smooth="60" a1="0" a2="-23" a3="110" a4="0" a5="90" a6="0" e1="0" e2="0" e3="0" Descr="" />
+    <JointToCart AbortCondition="False" Nr="2" Source="Numerical" velPercent="40" acc="40" smooth="0" UserFrame="#base" x="296" y="-118.8" z="263.7" a="-180" b="0" c="180" e1="0" e2="0" e3="0" Descr="" />
+    <Linear AbortCondition="False" Nr="3" Source="Numerical" vel="50" acc="100" smooth="60" UserFrame="#base" x="296.1" y="-118.8" z="199.4" a="-180" b="0" c="-180" e1="0" e2="0" e3="0" Descr="" />
+    <Output Nr="4" Channel="DOut21" State="True" Descr="" />
+    <JointToCart AbortCondition="False" Nr="5" Source="Numerical" velPercent="40" acc="100" smooth="60" UserFrame="#base" x="296" y="-118.8" z="263.7" a="-180" b="0" c="180" e1="0" e2="0" e3="0" Descr="" />
+    <Joint AbortCondition="False" Nr="6" Source="Numerical" velPercent="100" acc="100" smooth="60" a1="-119.4" a2="10" a3="55.8" a4="0" a5="94" a6="-119.4" e1="0" e2="0" e3="0" Descr="" />
+    <Linear AbortCondition="False" Nr="7" Source="Numerical" vel="50" acc="100" smooth="60" UserFrame="#base" x="-225" y="-399.3" z="310" a="-180" b="0" c="-180" e1="0" e2="0" e3="0" Descr="" />
+    <Output Nr="8" Channel="DOut21" State="False" Descr="" />
+    <Linear AbortCondition="False" Nr="9" Source="Numerical" vel="100" acc="40" smooth="0" UserFrame="#base" x="-225" y="-399.3" z="315.5" a="180" b="0" c="-180" e1="0" e2="0" e3="0" Descr="" />
+</Program>

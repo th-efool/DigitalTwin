@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 705a38ca2edde5e49aca8e73582e6e8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/CamPosNewDemoCabinet.asset
+  uploadId: 780727

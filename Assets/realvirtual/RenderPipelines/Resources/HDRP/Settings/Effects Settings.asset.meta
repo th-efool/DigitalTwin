@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4825e897ecea6dc42992b968bfe6f154
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Resources/HDRP/Settings/Effects Settings.asset
+  uploadId: 780727

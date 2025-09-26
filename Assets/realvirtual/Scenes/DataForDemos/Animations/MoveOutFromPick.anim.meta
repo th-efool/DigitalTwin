@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf1711ea8d6cb6f4d991a1facf1be1e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Animations/MoveOutFromPick.anim
+  uploadId: 780727

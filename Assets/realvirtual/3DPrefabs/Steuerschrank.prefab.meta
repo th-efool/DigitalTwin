@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39d4b34b099beda4f8f8d56ea69c60d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Steuerschrank.prefab
+  uploadId: 780727

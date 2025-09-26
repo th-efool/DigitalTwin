@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec1d32fbafb03ee49a26a8c3366fde0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Interfaces/igusREBEL/igusREBEL/LightingData.asset
+  uploadId: 780727

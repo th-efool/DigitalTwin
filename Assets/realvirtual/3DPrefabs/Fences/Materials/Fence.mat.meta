@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 855a5c3ef485fba4fa58ba4822dafafd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Fences/Materials/Fence.mat
+  uploadId: 780727

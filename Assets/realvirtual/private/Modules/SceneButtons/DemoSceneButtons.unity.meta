@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 780d7ea6f17fa3f4ea240f4283578201
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Modules/SceneButtons/DemoSceneButtons.unity
+  uploadId: 780727

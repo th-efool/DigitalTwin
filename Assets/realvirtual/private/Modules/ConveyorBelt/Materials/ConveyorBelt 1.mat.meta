@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e3f7c6feb202d743a2d854ad3909806
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Modules/ConveyorBelt/Materials/ConveyorBelt
+    1.mat
+  uploadId: 780727

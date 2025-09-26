@@ -1,0 +1,27 @@
+{
+    "name": "realvirtual.rendererfeatures",
+    "rootNamespace": "realvirtual.base",
+    "references": [
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Core.Runtime.Shared",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "NaughtyAttributes.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_RENDER_PIPELINE_URP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "",
+            "define": "UNITY_RENDER_PIPELINE_URP"
+        }
+    ],
+    "noEngineReferences": false
+}

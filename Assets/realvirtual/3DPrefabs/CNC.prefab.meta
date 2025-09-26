@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ad415ac9d0fb1c419120a7a44220fed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/CNC.prefab
+  uploadId: 780727

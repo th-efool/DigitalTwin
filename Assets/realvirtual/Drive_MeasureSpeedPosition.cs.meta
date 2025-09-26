@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f4a788570111dc468c969bd6d6fe6aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Drive_MeasureSpeedPosition.cs
+  uploadId: 780727

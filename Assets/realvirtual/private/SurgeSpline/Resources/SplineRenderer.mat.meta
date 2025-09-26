@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c492a9eeac69b435ba250b40e3c07897
+timeCreated: 1483511030
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/SurgeSpline/Resources/SplineRenderer.mat
+  uploadId: 780727

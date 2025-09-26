@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba26b5ee1844752459b88f7fc47ebc9e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/UIPrefabs/OverlayButtons.prefab
+  uploadId: 780727

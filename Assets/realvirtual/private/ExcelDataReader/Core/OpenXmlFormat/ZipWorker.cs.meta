@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de82e3e3a5d61d6449d1be4ded77391b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/ExcelDataReader/Core/OpenXmlFormat/ZipWorker.cs
+  uploadId: 780727

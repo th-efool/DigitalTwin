@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3c971d236402ba46bbf9e45beb464bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/LightGreen.mat
+  uploadId: 780727

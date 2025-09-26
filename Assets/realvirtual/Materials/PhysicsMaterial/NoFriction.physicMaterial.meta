@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd5698b5dfb5000408bb3eb9a2cd4e5a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/PhysicsMaterial/NoFriction.physicMaterial
+  uploadId: 780727

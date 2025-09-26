@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f01c8336aca412747874cb1309912a0d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/LightBarrier.prefab
+  uploadId: 780727

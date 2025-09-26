@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d70ad850b7bde914fa3dc23c3206deff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dilationMaterial: {fileID: 2100000, guid: 58bc20b19fdd8d740ba08236d78f1547, type: 2}
+  - outlineMaterial: {fileID: 2100000, guid: 4e4d3a6f4399c744f9abcaa33d05d4d6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RenderFeatures/MultiObjectOverlay/Runtime/MultiObjectOverlayPass.cs
+  uploadId: 780727

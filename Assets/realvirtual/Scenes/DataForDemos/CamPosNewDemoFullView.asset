@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e105c707293c74449a78f5b860b32e5f, type: 3}
+  m_Name: CamPosNewDemoFullView
+  m_EditorClassIdentifier: 
+  Description: 
+  CameraRot: {x: 40.045258, y: 72.95104, z: 0.0077042277}
+  TargetPos: {x: -0.80784416, y: 0.3796723, z: 0.42183352}
+  CameraTransformPos: {x: -7.1225204, y: 5.9307604, z: -1.5146539}
+  CameraTransformRot: {x: 0.27535805, y: 0.558529, z: -0.2034937, w: 0.75552213}
+  CameraDistance: 8.627844
+  OrthographicMainView: 0
+  OrthoViews: 0
+  OrthoTransformPos: {x: 0, y: 0.1, z: 0}
+  OrthoTransformRot: {x: -0, y: -0, z: -0, w: 1}
+  OrthoSize: 0.3
+  OrthoAngle: 0
+  OrthoDistance: 1
+  IsLocked: 0

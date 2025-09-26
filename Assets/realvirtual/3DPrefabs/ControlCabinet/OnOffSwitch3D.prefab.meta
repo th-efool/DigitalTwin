@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46aa698a8f84be445b787c8563d554ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/ControlCabinet/OnOffSwitch3D.prefab
+  uploadId: 780727

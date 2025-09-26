@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c41db34db1c161e4b8819652b7aa810b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RenderFeatures/DemoRenderFeatures.unity
+  uploadId: 780727

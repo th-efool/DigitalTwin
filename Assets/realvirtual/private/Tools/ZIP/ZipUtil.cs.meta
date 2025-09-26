@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f3c2a8b59ee43e4daaa3612f10ece19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Tools/ZIP/ZipUtil.cs
+  uploadId: 780727

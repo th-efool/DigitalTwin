@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff9e664f48f5e4e4181745b2adf30199
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/GuideCircle.prefab
+  uploadId: 780727

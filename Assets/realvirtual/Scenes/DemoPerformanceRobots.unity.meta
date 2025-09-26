@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41039647473380545a8c5e7fc2a47e07
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DemoPerformanceRobots.unity
+  uploadId: 780727

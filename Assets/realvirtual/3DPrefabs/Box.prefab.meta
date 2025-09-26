@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cbfd1e9abf73ef40be1b0fe9cd4684c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/Box.prefab
+  uploadId: 780727

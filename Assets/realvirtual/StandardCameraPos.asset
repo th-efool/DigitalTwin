@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e105c707293c74449a78f5b860b32e5f, type: 3}
+  m_Name: StandardCameraPos
+  m_EditorClassIdentifier: 
+  Description: 
+  CameraRot: {x: 47.617878, y: 123.82708, z: 0.011733698}
+  TargetPos: {x: -0.33600137, y: -0.2572801, z: 0.01533173}
+  CameraTransformPos: {x: -4.294903, y: 4.965007, z: 2.6682959}
+  CameraTransformRot: {x: 0.19014032, y: 0.8071373, z: -0.3561048, w: 0.430773}
+  CameraDistance: 7.0698934
+  OrthographicMainView: 0
+  OrthoViews: 0
+  OrthoTransformPos: {x: 0, y: 0, z: 0}
+  OrthoTransformRot: {x: -0, y: -0, z: -0, w: 1}
+  OrthoSize: 0.3
+  OrthoAngle: 0
+  OrthoDistance: 1
+  IsLocked: 0

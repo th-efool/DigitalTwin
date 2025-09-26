@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 776d03a35f1b52c4a9aed9f56d7b4229
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Tools/NaughtyAttributes/Core/NaughtyAttributes.Core.asmdef
+  uploadId: 780727

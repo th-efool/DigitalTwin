@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6606511750120227061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5848127051729058014}
+  - component: {fileID: 4394998904455796917}
+  - component: {fileID: -9206146442687891925}
+  m_Layer: 0
+  m_Name: S7Interface
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5848127051729058014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6606511750120227061}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4394998904455796917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6606511750120227061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd54a757d939804ab9fe646a7624a69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: 
+  Active: 0
+  FromTemplate: {fileID: 0}
+  realvirtualController: {fileID: 0}
+  HideNonG44Components: 0
+  SceneIsAdditive: 0
+  ForceStop: 0
+  IsConnected: 0
+  MinUpdateCycle: 0
+  CommCycleMeasures: 1000
+  CommCycleNr: 0
+  CommTimeMs: 0
+  CommTimeMin: 0
+  CommTimeMed: 0
+  CommTimeMax: 0
+  CommCycleMeasureNum: 0
+  UpdateCycleMs: 0
+  ThreadStatus: 
+  MinUpdateCycle2: 8
+  CommCycleNr2: 0
+  CommTimeMs2: 0
+  CommTimeMin2: 0
+  CommTimeMed2: 0
+  CommTimeMax2: 0
+  CommCycleMeasureNum2: 0
+  UpdateCycleMs2: 0
+  ThreadStatus2: 
+  NoThreading: 0
+  TwoThreads: 0
+  Adress: 192.168.0.1
+  Rack: 0
+  Slot: 0
+  ReverseHighLowBytes: 1
+  SymbolTable: 
+  ReduceMaxPduLenth: 60
+  ReconnectingTime: 10
+  OnlyWriteToPlcChangedSignals: 1
+  AreaReadWriteMode: 0
+  MinAreaMOutput: 0
+  MaxAreaMOutput: 0
+  MinAreaMInput: 0
+  MaxAreaMInput: 0
+  DBOutputs: 0
+  MinAreaDBOutput: 0
+  MaxAreaDBOutput: 0
+  DBInputs: 0
+  MinAreaDBInput: 0
+  MaxAreaDBInput: 0
+  ConnectionStatus: 
+  PLCStatus: 
+  RequestedPduLength: 0
+  NegotiatedPduLenght: 0
+  NumberInputs: 0
+  NumberOutputs: 0
+  ThreadCycleNum: 0
+--- !u!114 &-9206146442687891925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6606511750120227061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f09e850387c8c499741a2eca62a788, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

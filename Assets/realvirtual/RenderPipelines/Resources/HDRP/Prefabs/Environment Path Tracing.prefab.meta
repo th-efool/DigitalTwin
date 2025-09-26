@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab321d33dfa0d5e49b592f1abb444806
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Resources/HDRP/Prefabs/Environment
+    Path Tracing.prefab
+  uploadId: 780727

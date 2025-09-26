@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96969f4e96381cf4bac86b5d68a9b3be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/LampGreenOn.mat
+  uploadId: 780727

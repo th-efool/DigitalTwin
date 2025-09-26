@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2633c1b97aebf7242bc2c9918c71f1ba
+labels:
+- PBR
+- bare
+- matte
+- mat
+- new
+- clean
+- unused
+- texture
+- material
+- metal
+- brushed
+timeCreated: 1434982180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Materials/Aluminium.mat
+  uploadId: 780727

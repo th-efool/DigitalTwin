@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3b6925ed8585194ea3f8bbd6090b37a, type: 3}
+  m_Name: RealvirtualUIDarkSkin
+  m_EditorClassIdentifier: 
+  ToolbarBackgroundColor: {r: 0, g: 0, b: 0, a: 0.78431374}
+  ToolbarButtonColor: {r: 0, g: 0, b: 0, a: 0}
+  ToolbarHoverColor: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  ToolbarSelectedColor: {r: 0.85098046, g: 0.28627452, b: 0.4784314, a: 1}
+  ToolbarButtonIconColor: {r: 1, g: 1, b: 1, a: 1}
+  ToolbarButtonToggleActiveColor: {r: 0.25490198, g: 0.25490198, b: 0.25490198, a: 1}
+  MainMenuBackgroundColor: {r: 0, g: 0, b: 0, a: 0.78431374}
+  MainMenuHoverColor: {r: 0.25490198, g: 0.25490198, b: 0.25490198, a: 1}
+  MainMenuFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+  MainMenuFontSize: 22
+  MainMenuFontColor: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
+  CollectionBrowserBackgroundColor: {r: 0, g: 0, b: 0, a: 0.78431374}
+  CollectionBrowserHoverColor: {r: 0.8509804, g: 0.28627452, b: 0.47843137, a: 0.5882353}
+  CollectionBrowserFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75,
+    type: 3}
+  CollectionBrowserFontColor: {r: 0.9529412, g: 0.9529412, b: 0.9529412, a: 1}
+  CollectionBrowserFontSize: 20
+  AnnotationBackgroundColor: {r: 0, g: 0, b: 0, a: 0.78431374}
+  AnnotationFontColor: {r: 0.9529412, g: 0.9529412, b: 0.9529412, a: 1}
+  AnnotationFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+  TooltipBackgroundColor: {r: 0, g: 0, b: 0, a: 0.78431374}
+  TooltipFontColor: {r: 0.9529412, g: 0.9529412, b: 0.9529412, a: 1}
+  TooltipFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+  WindowHeaderBackgroundColor: {r: 0.25490198, g: 0.25490198, b: 0.25490198, a: 1}
+  WindowContentBackgroundColor: {r: 0, g: 0, b: 0, a: 0.9411765}
+  WindowButtonColor: {r: 0, g: 0, b: 0, a: 0.78431374}
+  WindowHoverColor: {r: 0.8509804, g: 0.28627452, b: 0.47843137, a: 0.5882353}
+  WindowSelectedColor: {r: 0.8509804, g: 0.28627452, b: 0.47843137, a: 0.5882353}
+  WindowFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+  WindowFontColor: {r: 0.9529412, g: 0.9529412, b: 0.9529412, a: 1}
+  WindowFontSize: 20
+  WindowMessageFontSize: 20
+  SelectedColor: {r: 1, g: 0.3254902, b: 0.5529412, a: 1}
+  BaseFontTMP: {fileID: 11400000, guid: dc7f1feb580e21c47a4e01aeca8bcae3, type: 2}
+  BaseFont: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}

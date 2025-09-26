@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d90fa4b83ddd24045bed80659d3f63be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Editor/OnPostProcessImportAsset.cs
+  uploadId: 780727

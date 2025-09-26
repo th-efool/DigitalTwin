@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9ce114db425b0b448120c4754f0f7da
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Editor/ComponentValidation/ExampleCustomRule.cs.example
+  uploadId: 780727

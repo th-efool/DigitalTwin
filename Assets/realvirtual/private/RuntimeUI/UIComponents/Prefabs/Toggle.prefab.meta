@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24a7377e2dbee5040b3cd75915cf6e2b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/UIComponents/Prefabs/Toggle.prefab
+  uploadId: 780727

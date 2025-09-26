@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb93dafbec5a95742b987f906ba8f4e7
+timeCreated: 1505906284
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/RuntimeInspector/Resources/RuntimeInspector/ObjectReferencePicker.prefab
+  uploadId: 780727

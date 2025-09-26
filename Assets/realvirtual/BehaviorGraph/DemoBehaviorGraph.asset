@@ -1,0 +1,2348 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5417914638257869020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db920e62f70f420bb33c771449926fa4, type: 3}
+  m_Name: DemoBehaviorGraph
+  m_EditorClassIdentifier: 
+  Graphs:
+  - rid: 4295969331626377362
+  RootGraph:
+    rid: 4295969331626377362
+  m_DebugInfo: {fileID: 5792532783686395571}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 4295969331626377291
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 1
+    - rid: 4295969331626377292
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 1
+    - rid: 4295969331626377298
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 4295969331626377299
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 4295969331626377304
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 100
+    - rid: 4295969331626377305
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 1
+    - rid: 4295969331626377306
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 4295969331626377312
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 90
+    - rid: 4295969331626377314
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 90
+    - rid: 4295969331626377319
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 4295969331626377320
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 4295969331626377321
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 4295969331626377362
+      type: {class: BehaviorGraphModule, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        AuthoringAssetID:
+          m_Value0: 17651030748240925417
+          m_Value1: 13190327422521526074
+        m_DebugInfo: {fileID: 0}
+        Root:
+          rid: 4295969331626377363
+        BlackboardReference:
+          rid: 4295969331626377364
+        BlackboardGroupReferences: []
+        m_VersionTimestamp: 638663119177534990
+    - rid: 4295969331626377363
+      type: {class: Start, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 9493436129336916735
+          m_Value1: 1524509107577214284
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: -2
+        m_Child:
+          rid: 4295969331626377365
+        Repeat: 1
+    - rid: 4295969331626377364
+      type: {class: BlackboardReference, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        m_Blackboard:
+          rid: 4295969331626377366
+        m_Source: {fileID: 7261335952118313085}
+    - rid: 4295969331626377365
+      type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 6394040483897547650
+          m_Value1: 12612854047157498533
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377363
+        m_Children:
+        - rid: 4295969331626377367
+        - rid: 4295969331626377368
+        - rid: 4295969331626377369
+    - rid: 4295969331626377366
+      type: {class: Blackboard, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        m_Variables:
+        - rid: 4295969331626377370
+        - rid: 4295969331626377371
+        - rid: 4295969331626377372
+        - rid: 4295969331626377373
+        - rid: 4295969331626377374
+        - rid: 4295969331626377375
+        - rid: 4295969331626377376
+    - rid: 4295969331626377367
+      type: {class: DriveJogAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 5620606425511012149
+          m_Value1: 3060096390077167817
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377365
+        Drive:
+          rid: 4295969331626377371
+        Forward:
+          rid: 4295969331626377291
+    - rid: 4295969331626377368
+      type: {class: WaitForSensorAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 2242448524166344834
+          m_Value1: 11795374938569650194
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377365
+        Sensor:
+          rid: 4295969331626377372
+        IsOccupied:
+          rid: 4295969331626377292
+    - rid: 4295969331626377369
+      type: {class: ParallelAllComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 17819325074400296204
+          m_Value1: 16285735577969019034
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377365
+        m_Children:
+        - rid: 4295969331626377377
+        - rid: 4295969331626377378
+    - rid: 4295969331626377370
+      type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 1
+          m_Value1: 0
+        Name: Self
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377371
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 17200292854554606948
+          m_Value1: 14080753481698461979
+        Name: ConveyorDrive
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377372
+      type: {class: 'BlackboardVariable`1[[realvirtual.Sensor, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 16190775289793009510
+          m_Value1: 9824852456084202550
+        Name: ConveyorSensor
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377373
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 11787259523568562822
+          m_Value1: 16224840545611229823
+        Name: Axis1
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377374
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 11371141141850267685
+          m_Value1: 13297674607069890863
+        Name: Axis3
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377375
+      type: {class: 'BlackboardVariable`1[[realvirtual.Signal, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 13324173454775863306
+          m_Value1: 6393205849280284416
+        Name: SignalGrip
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377376
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 9434105263882083999
+          m_Value1: 13598744201078470341
+        Name: Axis2
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377377
+      type: {class: StopDriveAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 3958341260256940540
+          m_Value1: 3991898666888338152
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377369
+        Drive:
+          rid: 4295969331626377371
+    - rid: 4295969331626377378
+      type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 14182650424413757669
+          m_Value1: 13642083506218036785
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377369
+        m_Children:
+        - rid: 4295969331626377379
+        - rid: 4295969331626377380
+        - rid: 4295969331626377381
+    - rid: 4295969331626377379
+      type: {class: WaitForDrivePositionAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 3147086816260141570
+          m_Value1: 7454174102569763331
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377378
+        Drive:
+          rid: 4295969331626377373
+        Position:
+          rid: 4295969331626377298
+    - rid: 4295969331626377380
+      type: {class: WaitForDrivePositionAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 17772364915434817644
+          m_Value1: 401354735879710741
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377378
+        Drive:
+          rid: 4295969331626377376
+        Position:
+          rid: 4295969331626377299
+    - rid: 4295969331626377381
+      type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 15604078161366511305
+          m_Value1: 11687397020385075082
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377378
+        m_Children:
+        - rid: 4295969331626377382
+        - rid: 4295969331626377383
+        - rid: 4295969331626377384
+        - rid: 4295969331626377385
+    - rid: 4295969331626377382
+      type: {class: DriveToAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 10644004412177653421
+          m_Value1: 3606442468818118588
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377381
+        Drive:
+          rid: 4295969331626377374
+        Position:
+          rid: 4295969331626377304
+    - rid: 4295969331626377383
+      type: {class: SetSignalBoolAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 15210697120647309358
+          m_Value1: 11293624940939185679
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377381
+        Signal:
+          rid: 4295969331626377375
+        To:
+          rid: 4295969331626377305
+    - rid: 4295969331626377384
+      type: {class: DriveToAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 10315253247612227393
+          m_Value1: 15000400070547069957
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377381
+        Drive:
+          rid: 4295969331626377374
+        Position:
+          rid: 4295969331626377306
+    - rid: 4295969331626377385
+      type: {class: ParallelAllComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 4700776328930599901
+          m_Value1: 258731020188438379
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377381
+        m_Children:
+        - rid: 4295969331626377386
+        - rid: 4295969331626377387
+    - rid: 4295969331626377386
+      type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 10574201500646972031
+          m_Value1: 3900259490745971573
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377385
+        m_Children:
+        - rid: 4295969331626377388
+        - rid: 4295969331626377389
+    - rid: 4295969331626377387
+      type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 15044751951218529746
+          m_Value1: 8116011058234897480
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377385
+        m_Children:
+        - rid: 4295969331626377390
+        - rid: 4295969331626377389
+    - rid: 4295969331626377388
+      type: {class: DriveToAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 10574201500646972031
+          m_Value1: 3900259490745971573
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377386
+        Drive:
+          rid: 4295969331626377373
+        Position:
+          rid: 4295969331626377312
+    - rid: 4295969331626377389
+      type: {class: WaitForAllComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 12030978978046104636
+          m_Value1: 6027891598385010047
+        Graph:
+          rid: 4295969331626377362
+        m_Parents:
+        - rid: 4295969331626377386
+        - rid: 4295969331626377387
+        m_Child:
+          rid: 4295969331626377391
+    - rid: 4295969331626377390
+      type: {class: DriveToAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 15044751951218529746
+          m_Value1: 8116011058234897480
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377387
+        Drive:
+          rid: 4295969331626377376
+        Position:
+          rid: 4295969331626377314
+    - rid: 4295969331626377391
+      type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 4615202181733749580
+          m_Value1: 1130315154094788528
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377389
+        m_Children:
+        - rid: 4295969331626377392
+        - rid: 4295969331626377393
+        - rid: 4295969331626377394
+        - rid: 4295969331626377395
+    - rid: 4295969331626377392
+      type: {class: SetSignalBoolAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 18304902908057405803
+          m_Value1: 15210566478022676258
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377391
+        Signal:
+          rid: 4295969331626377375
+        To:
+          rid: 4295969331626377319
+    - rid: 4295969331626377393
+      type: {class: StartDriveToAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 12796550770586032860
+          m_Value1: 16439519541049634575
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377391
+        Drive:
+          rid: 4295969331626377373
+        Destination:
+          rid: 4295969331626377320
+    - rid: 4295969331626377394
+      type: {class: StartDriveToAction, ns: realvirtual, asm: realvirtual.base}
+      data:
+        ID:
+          m_Value0: 2856815740233894065
+          m_Value1: 3153926583749067249
+        Graph:
+          rid: 4295969331626377362
+        m_Parent:
+          rid: 4295969331626377391
+        Drive:
+          rid: 4295969331626377376
+        Destination:
+          rid: 4295969331626377321
+    - rid: 4295969331626377395
+      type: {class: WaitForAllComposite, ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        ID:
+          m_Value0: 6431227412936308715
+          m_Value1: 11667709258642936915
+        Graph:
+          rid: 4295969331626377362
+        m_Parents:
+        - rid: 4295969331626377391
+        m_Child:
+          rid: -2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad8f2220607dac4db5082ff333fafb8, type: 3}
+  m_Name: DemoBehaviorGraph
+  m_EditorClassIdentifier: 
+  Blackboard: {fileID: 6229859152319864520}
+  m_Description: 
+  m_Nodes:
+  - rid: 5225085563249623356
+  - rid: 5225085563249623426
+  - rid: 5225085563249623538
+  - rid: 5225085563249623649
+  - rid: 5225085563249623870
+  - rid: 5225085564576071810
+  - rid: 5225085564576072444
+  - rid: 5225085564576072544
+  - rid: 5225085564576072552
+  - rid: 5225085564576072559
+  - rid: 5225085564576072564
+  - rid: 5225085564576072567
+  - rid: 5225085564988424405
+  - rid: 5225085564988424517
+  - rid: 5225085564988424992
+  - rid: 5225085564988424995
+  - rid: 5225085582504625143
+  - rid: 5225085582504625150
+  - rid: 5225085582788788225
+  - rid: 5225085582788788348
+  - rid: 5225085582788788355
+  - rid: 5225085582788788362
+  m_VersionTimestamp: 638663119177534990
+  m_DebugInfo: {fileID: 5792532783686395571}
+  AssetID:
+    m_Value0: 17651030748240925417
+    m_Value1: 13190327422521526074
+  Story:
+    Story: 
+    StoryVariableNames: []
+    Variables: []
+  m_NodeModelsInfo:
+  - Name: On Start
+    Story: 
+    RuntimeTypeID:
+      m_Value0: 3335272451348827663
+      m_Value1: 11549843281177505721
+    Variables: []
+    NamedChildren: []
+  - Name: DriveJog
+    Story: 'Start [Drive] Jog Forward [Forward]'
+    RuntimeTypeID:
+      m_Value0: 2533536958300992369
+      m_Value1: 16423828006002048673
+    Variables:
+    - Name: Drive
+      Type:
+        m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    - Name: Forward
+      Type:
+        m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+      Tooltip: 
+    NamedChildren: []
+  - Name: StopDrive
+    Story: 'Stop [Drive]'
+    RuntimeTypeID:
+      m_Value0: 17169234998708807346
+      m_Value1: 3046837802158209420
+    Variables:
+    - Name: Drive
+      Type:
+        m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    NamedChildren: []
+  - Name: WaitForSensor
+    Story: 'Wait for [Sensor] occupied [IsOccupied]'
+    RuntimeTypeID:
+      m_Value0: 6254299382558321014
+      m_Value1: 1840594747020887533
+    Variables:
+    - Name: Sensor
+      Type:
+        m_SerializableType: realvirtual.Sensor, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    - Name: IsOccupied
+      Type:
+        m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+      Tooltip: 
+    NamedChildren: []
+  - Name: DriveTo
+    Story: '[Drive] to position [Position]'
+    RuntimeTypeID:
+      m_Value0: 10475165389101816373
+      m_Value1: 742504781950690682
+    Variables:
+    - Name: Drive
+      Type:
+        m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    - Name: Position
+      Type:
+        m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+      Tooltip: 
+    NamedChildren: []
+  - Name: SetSignalBool
+    Story: 'Set [Signal] to [To]'
+    RuntimeTypeID:
+      m_Value0: 3888114979382698863
+      m_Value1: 14095855940551002499
+    Variables:
+    - Name: Signal
+      Type:
+        m_SerializableType: realvirtual.Signal, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    - Name: To
+      Type:
+        m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+      Tooltip: 
+    NamedChildren: []
+  - Name: Run In Parallel
+    Story: 
+    RuntimeTypeID:
+      m_Value0: 6216542881172158703
+      m_Value1: 2191282456596108218
+    Variables: []
+    NamedChildren: []
+  - Name: Wait For All
+    Story: 
+    RuntimeTypeID:
+      m_Value0: 7660367652061089412
+      m_Value1: 18313906318609194151
+    Variables: []
+    NamedChildren: []
+  - Name: StartDriveTo
+    Story: 'Start [Drive] to [destination]'
+    RuntimeTypeID:
+      m_Value0: 5207008336281378184
+      m_Value1: 10181210640123889722
+    Variables:
+    - Name: Drive
+      Type:
+        m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    - Name: Destination
+      Type:
+        m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+      Tooltip: 
+    NamedChildren: []
+  - Name: WaitForDrivePosition
+    Story: 'Wait for [Drive] at [Position]'
+    RuntimeTypeID:
+      m_Value0: 15450438886760304400
+      m_Value1: 912247687982007957
+    Variables:
+    - Name: Drive
+      Type:
+        m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      Tooltip: 
+    - Name: Position
+      Type:
+        m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089
+      Tooltip: 
+    NamedChildren: []
+  m_Blackboards: []
+  m_CommandBuffer:
+    m_Commands: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 4295969331626377322
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 17200292854554606948
+          m_Value1: 14080753481698461979
+        Name: ConveyorDrive
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377323
+      type: {class: 'TypedVariableModel`1[[realvirtual.Sensor, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 16190775289793009510
+          m_Value1: 9824852456084202550
+        Name: ConveyorSensor
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377324
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 11371141141850267685
+          m_Value1: 13297674607069890863
+        Name: Axis3
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377325
+      type: {class: 'TypedVariableModel`1[[realvirtual.Signal, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 13324173454775863306
+          m_Value1: 6393205849280284416
+        Name: SignalGrip
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377326
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 11787259523568562822
+          m_Value1: 16224840545611229823
+        Name: Axis1
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 4295969331626377327
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 9434105263882083999
+          m_Value1: 13598744201078470341
+        Name: Axis2
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623356
+      type: {class: StartNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -595.1529, y: -1114.0115}
+        ID:
+          m_Value0: 9493436129336916735
+          m_Value1: 1524509107577214284
+        Parents: []
+        PortModels:
+        - rid: 5225085563249623357
+        NodeType:
+          m_SerializableType: Unity.Behavior.Start, Unity.Behavior, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 3335272451348827663
+          m_Value1: 11549843281177505721
+        m_FieldValues: []
+        Repeat: 1
+    - rid: 5225085563249623357
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623356
+        m_Connections:
+        - rid: 5225085564988424993
+    - rid: 5225085563249623426
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -595.15295, y: -1010.78326}
+        ID:
+          m_Value0: 5620606425511012149
+          m_Value1: 3060096390077167817
+        Parents:
+        - rid: 5225085564988424992
+        PortModels:
+        - rid: 5225085563249623427
+        - rid: 5225085563249623428
+        NodeType:
+          m_SerializableType: realvirtual.DriveJogAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 2533536958300992369
+          m_Value1: 16423828006002048673
+        m_FieldValues:
+        - rid: 5225085563249623429
+        - rid: 5225085563249623430
+    - rid: 5225085563249623427
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623426
+        m_Connections: []
+    - rid: 5225085563249623428
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623426
+        m_Connections: []
+    - rid: 5225085563249623429
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085563249623431
+        LinkedVariable:
+          rid: 4295969331626377322
+    - rid: 5225085563249623430
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Forward
+        Type:
+          m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085563249623432
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085563249623431
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623432
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 1
+    - rid: 5225085563249623538
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -668.3821, y: -656.2808}
+        ID:
+          m_Value0: 3958341260256940540
+          m_Value1: 3991898666888338152
+        Parents: []
+        PortModels:
+        - rid: 5225085563249623539
+        - rid: 5225085563249623540
+        NodeType:
+          m_SerializableType: realvirtual.StopDriveAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 17169234998708807346
+          m_Value1: 3046837802158209420
+        m_FieldValues:
+        - rid: 5225085563249623541
+    - rid: 5225085563249623539
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623538
+        m_Connections:
+        - rid: 5225085564988424519
+    - rid: 5225085563249623540
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623538
+        m_Connections: []
+    - rid: 5225085563249623541
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085563249623544
+        LinkedVariable:
+          rid: 4295969331626377322
+    - rid: 5225085563249623544
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623649
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -593.42694, y: -997.20416}
+        ID:
+          m_Value0: 2242448524166344834
+          m_Value1: 11795374938569650194
+        Parents:
+        - rid: 5225085564988424992
+        PortModels:
+        - rid: 5225085563249623650
+        - rid: 5225085563249623651
+        NodeType:
+          m_SerializableType: realvirtual.WaitForSensorAction, realvirtual.base,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 6254299382558321014
+          m_Value1: 1840594747020887533
+        m_FieldValues:
+        - rid: 5225085563249623652
+        - rid: 5225085563249623654
+    - rid: 5225085563249623650
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623649
+        m_Connections: []
+    - rid: 5225085563249623651
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623649
+        m_Connections: []
+    - rid: 5225085563249623652
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Sensor
+        Type:
+          m_SerializableType: 
+        LocalValue:
+          rid: 5225085563249623653
+        LinkedVariable:
+          rid: 4295969331626377323
+    - rid: 5225085563249623653
+      type: {class: 'BlackboardVariable`1[[realvirtual.Sensor, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623654
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: IsOccupied
+        Type:
+          m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085563249623655
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085563249623655
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 1
+    - rid: 5225085563249623870
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -182.20007, y: -1086.3861}
+        ID:
+          m_Value0: 10644004412177653421
+          m_Value1: 3606442468818118588
+        Parents:
+        - rid: 5225085564988424995
+        PortModels:
+        - rid: 5225085563249623871
+        - rid: 5225085563249623872
+        NodeType:
+          m_SerializableType: realvirtual.DriveToAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 10475165389101816373
+          m_Value1: 742504781950690682
+        m_FieldValues:
+        - rid: 5225085563249623873
+        - rid: 5225085563249623874
+    - rid: 5225085563249623871
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623870
+        m_Connections: []
+    - rid: 5225085563249623872
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085563249623870
+        m_Connections: []
+    - rid: 5225085563249623873
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085563249623877
+        LinkedVariable:
+          rid: 4295969331626377324
+    - rid: 5225085563249623874
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Position
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085563249623878
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085563249623877
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623878
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 100
+    - rid: 5225085564576071810
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -180.16689, y: -1003.8235}
+        ID:
+          m_Value0: 10315253247612227393
+          m_Value1: 15000400070547069957
+        Parents:
+        - rid: 5225085564988424995
+        PortModels:
+        - rid: 5225085564576071811
+        - rid: 5225085564576071812
+        NodeType:
+          m_SerializableType: realvirtual.DriveToAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 10475165389101816373
+          m_Value1: 742504781950690682
+        m_FieldValues:
+        - rid: 5225085564576071813
+        - rid: 5225085564576071815
+    - rid: 5225085564576071811
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576071810
+        m_Connections: []
+    - rid: 5225085564576071812
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576071810
+        m_Connections: []
+    - rid: 5225085564576071813
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: 
+        LocalValue:
+          rid: 5225085564576071814
+        LinkedVariable:
+          rid: 4295969331626377324
+    - rid: 5225085564576071814
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085564576071815
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Position
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085564576071816
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085564576071816
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 5225085564576072444
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -184.04524, y: -1074.3643}
+        ID:
+          m_Value0: 15210697120647309358
+          m_Value1: 11293624940939185679
+        Parents:
+        - rid: 5225085564988424995
+        PortModels:
+        - rid: 5225085564576072445
+        - rid: 5225085564576072446
+        NodeType:
+          m_SerializableType: realvirtual.SetSignalBoolAction, realvirtual.base,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 3888114979382698863
+          m_Value1: 14095855940551002499
+        m_FieldValues:
+        - rid: 5225085564576072447
+        - rid: 5225085564576072448
+    - rid: 5225085564576072445
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072444
+        m_Connections: []
+    - rid: 5225085564576072446
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072444
+        m_Connections: []
+    - rid: 5225085564576072447
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Signal
+        Type:
+          m_SerializableType: realvirtual.Signal, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085564576072449
+        LinkedVariable:
+          rid: 4295969331626377325
+    - rid: 5225085564576072448
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: To
+        Type:
+          m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085564576072450
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085564576072449
+      type: {class: 'BlackboardVariable`1[[realvirtual.Signal, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085564576072450
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 1
+    - rid: 5225085564576072544
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -283.63, y: -730.46686}
+        ID:
+          m_Value0: 10574201500646972031
+          m_Value1: 3900259490745971573
+        Parents: []
+        PortModels:
+        - rid: 5225085564576072545
+        - rid: 5225085564576072546
+        NodeType:
+          m_SerializableType: realvirtual.DriveToAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 10475165389101816373
+          m_Value1: 742504781950690682
+        m_FieldValues:
+        - rid: 5225085564576072547
+        - rid: 5225085564576072548
+    - rid: 5225085564576072545
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072544
+        m_Connections:
+        - rid: 5225085564576072561
+    - rid: 5225085564576072546
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072544
+        m_Connections:
+        - rid: 5225085564576072565
+    - rid: 5225085564576072547
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085564576072549
+        LinkedVariable:
+          rid: 4295969331626377326
+    - rid: 5225085564576072548
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Position
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085564576072550
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085564576072549
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085564576072550
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 90
+    - rid: 5225085564576072552
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -31.558876, y: -733.1295}
+        ID:
+          m_Value0: 15044751951218529746
+          m_Value1: 8116011058234897480
+        Parents: []
+        PortModels:
+        - rid: 5225085564576072553
+        - rid: 5225085564576072554
+        NodeType:
+          m_SerializableType: realvirtual.DriveToAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 10475165389101816373
+          m_Value1: 742504781950690682
+        m_FieldValues:
+        - rid: 5225085564576072555
+        - rid: 5225085564576072556
+    - rid: 5225085564576072553
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072552
+        m_Connections:
+        - rid: 5225085564576072561
+    - rid: 5225085564576072554
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072552
+        m_Connections:
+        - rid: 5225085564576072565
+    - rid: 5225085564576072555
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085564576072557
+        LinkedVariable:
+          rid: 4295969331626377327
+    - rid: 5225085564576072556
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Position
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085564576072558
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085564576072557
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085564576072558
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 90
+    - rid: 5225085564576072559
+      type: {class: RunInParallelNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -180.44147, y: -888.3575}
+        ID:
+          m_Value0: 4700776328930599901
+          m_Value1: 258731020188438379
+        Parents: []
+        PortModels:
+        - rid: 5225085564576072560
+        - rid: 5225085564576072561
+        NodeType:
+          m_SerializableType: Unity.Behavior.ParallelAllComposite, Unity.Behavior,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 6216542881172158703
+          m_Value1: 2191282456596108218
+        m_FieldValues: []
+        m_Mode: 0
+    - rid: 5225085564576072560
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072559
+        m_Connections:
+        - rid: 5225085564988424997
+    - rid: 5225085564576072561
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072559
+        m_Connections:
+        - rid: 5225085564576072545
+        - rid: 5225085564576072553
+    - rid: 5225085564576072564
+      type: {class: JoinNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -149.96149, y: -632.8152}
+        ID:
+          m_Value0: 12030978978046104636
+          m_Value1: 6027891598385010047
+        Parents: []
+        PortModels:
+        - rid: 5225085564576072565
+        - rid: 5225085564576072566
+        NodeType:
+          m_SerializableType: Unity.Behavior.WaitForAllComposite, Unity.Behavior,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 7660367652061089412
+          m_Value1: 18313906318609194151
+        m_FieldValues: []
+    - rid: 5225085564576072565
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072564
+        m_Connections:
+        - rid: 5225085564576072554
+        - rid: 5225085564576072546
+    - rid: 5225085564576072566
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072564
+        m_Connections:
+        - rid: 5225085582504625151
+    - rid: 5225085564576072567
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -149.96158, y: -539.29846}
+        ID:
+          m_Value0: 18304902908057405803
+          m_Value1: 15210566478022676258
+        Parents:
+        - rid: 5225085582504625150
+        PortModels:
+        - rid: 5225085564576072568
+        - rid: 5225085564576072569
+        NodeType:
+          m_SerializableType: realvirtual.SetSignalBoolAction, realvirtual.base,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 3888114979382698863
+          m_Value1: 14095855940551002499
+        m_FieldValues:
+        - rid: 5225085564576072570
+        - rid: 5225085564576072572
+    - rid: 5225085564576072568
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072567
+        m_Connections: []
+    - rid: 5225085564576072569
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564576072567
+        m_Connections: []
+    - rid: 5225085564576072570
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Signal
+        Type:
+          m_SerializableType: 
+        LocalValue:
+          rid: 5225085564576072571
+        LinkedVariable:
+          rid: 4295969331626377325
+    - rid: 5225085564576072571
+      type: {class: 'BlackboardVariable`1[[realvirtual.Signal, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085564576072572
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: To
+        Type:
+          m_SerializableType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085564576072573
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085564576072573
+      type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 5225085564988424405
+      type: {class: JoinNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -148.62296, y: -295.81964}
+        ID:
+          m_Value0: 6431227412936308715
+          m_Value1: 11667709258642936915
+        Parents: []
+        PortModels:
+        - rid: 5225085564988424406
+        - rid: 5225085564988424407
+        NodeType:
+          m_SerializableType: Unity.Behavior.WaitForAllComposite, Unity.Behavior,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 7660367652061089412
+          m_Value1: 18313906318609194151
+        m_FieldValues: []
+    - rid: 5225085564988424406
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424405
+        m_Connections:
+        - rid: 5225085582788788224
+    - rid: 5225085564988424407
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424405
+        m_Connections: []
+    - rid: 5225085564988424517
+      type: {class: RunInParallelNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -595.99414, y: -810.97626}
+        ID:
+          m_Value0: 17819325074400296204
+          m_Value1: 16285735577969019034
+        Parents: []
+        PortModels:
+        - rid: 5225085564988424518
+        - rid: 5225085564988424519
+        NodeType:
+          m_SerializableType: Unity.Behavior.ParallelAllComposite, Unity.Behavior,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 6216542881172158703
+          m_Value1: 2191282456596108218
+        m_FieldValues: []
+        m_Mode: 0
+    - rid: 5225085564988424518
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424517
+        m_Connections:
+        - rid: 5225085564988424994
+    - rid: 5225085564988424519
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424517
+        m_Connections:
+        - rid: 5225085563249623539
+        - rid: 5225085582788788363
+    - rid: 5225085564988424992
+      type: {class: SequenceNodeModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        Position: {x: -595.15295, y: -1010.78326}
+        ID:
+          m_Value0: 6394040483897547650
+          m_Value1: 12612854047157498533
+        Parents: []
+        PortModels:
+        - rid: 5225085564988424993
+        - rid: 5225085564988424994
+        Nodes:
+        - rid: 5225085563249623426
+        - rid: 5225085563249623649
+    - rid: 5225085564988424993
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424992
+        m_Connections:
+        - rid: 5225085563249623357
+    - rid: 5225085564988424994
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424992
+        m_Connections:
+        - rid: 5225085564988424518
+    - rid: 5225085564988424995
+      type: {class: SequenceNodeModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        Position: {x: -182.20007, y: -1086.3861}
+        ID:
+          m_Value0: 15604078161366511305
+          m_Value1: 11687397020385075082
+        Parents: []
+        PortModels:
+        - rid: 5225085564988424996
+        - rid: 5225085564988424997
+        Nodes:
+        - rid: 5225085563249623870
+        - rid: 5225085564576072444
+        - rid: 5225085564576071810
+    - rid: 5225085564988424996
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424995
+        m_Connections:
+        - rid: 5225085582788788364
+    - rid: 5225085564988424997
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085564988424995
+        m_Connections:
+        - rid: 5225085564576072560
+    - rid: 5225085582504625143
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -133.11719, y: -520.83167}
+        ID:
+          m_Value0: 12796550770586032860
+          m_Value1: 16439519541049634575
+        Parents:
+        - rid: 5225085582504625150
+        PortModels:
+        - rid: 5225085582504625144
+        - rid: 5225085582504625145
+        NodeType:
+          m_SerializableType: realvirtual.StartDriveToAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 5207008336281378184
+          m_Value1: 10181210640123889722
+        m_FieldValues:
+        - rid: 5225085582504625146
+        - rid: 5225085582504625147
+    - rid: 5225085582504625144
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582504625143
+        m_Connections: []
+    - rid: 5225085582504625145
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582504625143
+        m_Connections: []
+    - rid: 5225085582504625146
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085582504625148
+        LinkedVariable:
+          rid: 4295969331626377326
+    - rid: 5225085582504625147
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Destination
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085582504625149
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085582504625148
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085582504625149
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 5225085582504625150
+      type: {class: SequenceNodeModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        Position: {x: -149.96158, y: -539.29846}
+        ID:
+          m_Value0: 4615202181733749580
+          m_Value1: 1130315154094788528
+        Parents: []
+        PortModels:
+        - rid: 5225085582504625151
+        - rid: 5225085582788788224
+        Nodes:
+        - rid: 5225085564576072567
+        - rid: 5225085582504625143
+        - rid: 5225085582788788225
+    - rid: 5225085582504625151
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582504625150
+        m_Connections:
+        - rid: 5225085564576072566
+    - rid: 5225085582788788224
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582504625150
+        m_Connections:
+        - rid: 5225085564988424406
+    - rid: 5225085582788788225
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -149.88225, y: -448.1834}
+        ID:
+          m_Value0: 2856815740233894065
+          m_Value1: 3153926583749067249
+        Parents:
+        - rid: 5225085582504625150
+        PortModels:
+        - rid: 5225085582788788226
+        - rid: 5225085582788788227
+        NodeType:
+          m_SerializableType: realvirtual.StartDriveToAction, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 5207008336281378184
+          m_Value1: 10181210640123889722
+        m_FieldValues:
+        - rid: 5225085582788788228
+        - rid: 5225085582788788229
+    - rid: 5225085582788788226
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788225
+        m_Connections: []
+    - rid: 5225085582788788227
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788225
+        m_Connections: []
+    - rid: 5225085582788788228
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085582788788230
+        LinkedVariable:
+          rid: 4295969331626377327
+    - rid: 5225085582788788229
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Destination
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085582788788231
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085582788788230
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085582788788231
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 5225085582788788348
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -180.70422, y: -1268.8159}
+        ID:
+          m_Value0: 3147086816260141570
+          m_Value1: 7454174102569763331
+        Parents:
+        - rid: 5225085582788788362
+        PortModels:
+        - rid: 5225085582788788349
+        - rid: 5225085582788788350
+        NodeType:
+          m_SerializableType: realvirtual.WaitForDrivePositionAction, realvirtual.base,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 15450438886760304400
+          m_Value1: 912247687982007957
+        m_FieldValues:
+        - rid: 5225085582788788351
+        - rid: 5225085582788788352
+    - rid: 5225085582788788349
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788348
+        m_Connections: []
+    - rid: 5225085582788788350
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788348
+        m_Connections: []
+    - rid: 5225085582788788351
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085582788788353
+        LinkedVariable:
+          rid: 4295969331626377326
+    - rid: 5225085582788788352
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Position
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085582788788354
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085582788788353
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085582788788354
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 5225085582788788355
+      type: {class: ActionNodeModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        Position: {x: -182.94576, y: -1249.6034}
+        ID:
+          m_Value0: 17772364915434817644
+          m_Value1: 401354735879710741
+        Parents:
+        - rid: 5225085582788788362
+        PortModels:
+        - rid: 5225085582788788356
+        - rid: 5225085582788788357
+        NodeType:
+          m_SerializableType: realvirtual.WaitForDrivePositionAction, realvirtual.base,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        NodeTypeID:
+          m_Value0: 15450438886760304400
+          m_Value1: 912247687982007957
+        m_FieldValues:
+        - rid: 5225085582788788358
+        - rid: 5225085582788788359
+    - rid: 5225085582788788356
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788355
+        m_Connections: []
+    - rid: 5225085582788788357
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788355
+        m_Connections: []
+    - rid: 5225085582788788358
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Drive
+        Type:
+          m_SerializableType: realvirtual.Drive, realvirtual.base, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        LocalValue:
+          rid: 5225085582788788360
+        LinkedVariable:
+          rid: 4295969331626377327
+    - rid: 5225085582788788359
+      type: {class: BehaviorGraphNodeModel/FieldModel, ns: Unity.Behavior, asm: Unity.Behavior.Authoring}
+      data:
+        FieldName: Position
+        Type:
+          m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        LocalValue:
+          rid: 5225085582788788361
+        LinkedVariable:
+          rid: -2
+    - rid: 5225085582788788360
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: {fileID: 0}
+    - rid: 5225085582788788361
+      type: {class: 'BlackboardVariable`1[[System.Single, mscorlib]]', ns: Unity.Behavior,
+        asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 0
+          m_Value1: 0
+        Name: 
+        m_Value: 0
+    - rid: 5225085582788788362
+      type: {class: SequenceNodeModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        Position: {x: -180.70422, y: -1268.8159}
+        ID:
+          m_Value0: 14182650424413757669
+          m_Value1: 13642083506218036785
+        Parents: []
+        PortModels:
+        - rid: 5225085582788788363
+        - rid: 5225085582788788364
+        Nodes:
+        - rid: 5225085582788788348
+        - rid: 5225085582788788355
+    - rid: 5225085582788788363
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: InputPort
+        m_PortDataFlowType: 0
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788362
+        m_Connections:
+        - rid: 5225085564988424519
+    - rid: 5225085582788788364
+      type: {class: PortModel, ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        m_Name: OutputPort
+        m_PortDataFlowType: 1
+        m_IsFloating: 0
+        m_NodeModel:
+          rid: 5225085582788788362
+        m_Connections:
+        - rid: 5225085564988424996
+--- !u!114 &5792532783686395571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b27bb6d9a2c8d540a10dff10acc543e, type: 3}
+  m_Name: DemoBehaviorGraph Debug Info
+  m_EditorClassIdentifier: 
+  m_CodeBreakPointsList: []
+--- !u!114 &6229859152319864520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dd922ae02c94c87a66e46a10a7319b9, type: 3}
+  m_Name: DemoBehaviorGraph Blackboard Editor
+  m_EditorClassIdentifier: 
+  AssetID:
+    m_Value0: 17651030748240925417
+    m_Value1: 13190327422521526074
+  m_Variables:
+  - rid: 5225085563249623358
+  - rid: 5225085563249623474
+  - rid: 5225085563249623510
+  - rid: 5225085563249623922
+  - rid: 5225085563249623924
+  - rid: 5225085564576071748
+  - rid: 5225085564576072562
+  m_VersionTimestamp: 638663119178039248
+  m_CommandBuffer:
+    m_Commands: []
+  m_RuntimeBlackboardAsset: {fileID: 7261335952118313085}
+  references:
+    version: 2
+    RefIds:
+    - rid: 5225085563249623358
+      type: {class: 'TypedVariableModel`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 1
+          m_Value1: 0
+        Name: Self
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623474
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 17200292854554606948
+          m_Value1: 14080753481698461979
+        Name: ConveyorDrive
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623510
+      type: {class: 'TypedVariableModel`1[[realvirtual.Sensor, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 16190775289793009510
+          m_Value1: 9824852456084202550
+        Name: ConveyorSensor
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623922
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 11787259523568562822
+          m_Value1: 16224840545611229823
+        Name: Axis1
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085563249623924
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 11371141141850267685
+          m_Value1: 13297674607069890863
+        Name: Axis3
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085564576071748
+      type: {class: 'TypedVariableModel`1[[realvirtual.Signal, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 13324173454775863306
+          m_Value1: 6393205849280284416
+        Name: SignalGrip
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+    - rid: 5225085564576072562
+      type: {class: 'TypedVariableModel`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior.GraphFramework, asm: Unity.Behavior.GraphFramework}
+      data:
+        ID:
+          m_Value0: 9434105263882083999
+          m_Value1: 13598744201078470341
+        Name: Axis2
+        IsExposed: 1
+        m_IsShared: 0
+        m_Value: {fileID: 0}
+--- !u!114 &7261335952118313085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c02bb70996b49eba31d0c206e28da24, type: 3}
+  m_Name: DemoBehaviorGraph Blackboard Editor
+  m_EditorClassIdentifier: 
+  VersionTimestamp: 638663119178039248
+  AssetID:
+    m_Value0: 17651030748240925417
+    m_Value1: 13190327422521526074
+  m_Blackboard:
+    m_Variables:
+    - rid: 3826358870995632768
+    - rid: 3826358870995632769
+    - rid: 3826358870995632770
+    - rid: 3826358870995632771
+    - rid: 3826358870995632772
+    - rid: 3826358870995632773
+    - rid: 3826358870995632774
+  m_SharedBlackboardVariableGuids: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3826358870995632768
+      type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 1
+          m_Value1: 0
+        Name: Self
+        m_Value: {fileID: 0}
+    - rid: 3826358870995632769
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 17200292854554606948
+          m_Value1: 14080753481698461979
+        Name: ConveyorDrive
+        m_Value: {fileID: 0}
+    - rid: 3826358870995632770
+      type: {class: 'BlackboardVariable`1[[realvirtual.Sensor, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 16190775289793009510
+          m_Value1: 9824852456084202550
+        Name: ConveyorSensor
+        m_Value: {fileID: 0}
+    - rid: 3826358870995632771
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 11787259523568562822
+          m_Value1: 16224840545611229823
+        Name: Axis1
+        m_Value: {fileID: 0}
+    - rid: 3826358870995632772
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 11371141141850267685
+          m_Value1: 13297674607069890863
+        Name: Axis3
+        m_Value: {fileID: 0}
+    - rid: 3826358870995632773
+      type: {class: 'BlackboardVariable`1[[realvirtual.Signal, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 13324173454775863306
+          m_Value1: 6393205849280284416
+        Name: SignalGrip
+        m_Value: {fileID: 0}
+    - rid: 3826358870995632774
+      type: {class: 'BlackboardVariable`1[[realvirtual.Drive, realvirtual.base]]',
+        ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 9434105263882083999
+          m_Value1: 13598744201078470341
+        Name: Axis2
+        m_Value: {fileID: 0}

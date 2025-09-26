@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 804360e751cca7a478e8878f2141ed38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Resources/Materials/HighlightMaterial.mat
+  uploadId: 780727

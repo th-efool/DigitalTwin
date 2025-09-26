@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e88161a711134dd4c9a3a1586c9409ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Scenes/Test-Materials/Ground.mat
+  uploadId: 780727

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a415568d72402f459bd66eb520d7d82
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Resources/URP/URP-Low.asset
+  uploadId: 780727

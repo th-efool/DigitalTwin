@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cab236a835f556c4d90eb6f5d792d182
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/SuctionGripper.prefab
+  uploadId: 780727

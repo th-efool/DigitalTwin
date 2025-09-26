@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdde8297c28d0cd47a0763f02a5b63cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/PhysicsDemo.prefab
+  uploadId: 780727

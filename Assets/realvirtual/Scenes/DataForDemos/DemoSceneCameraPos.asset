@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e105c707293c74449a78f5b860b32e5f, type: 3}
+  m_Name: DemoSceneCameraPos
+  m_EditorClassIdentifier: 
+  Description: Camera Position for demo scene
+  CameraRot: {x: 33.6169, y: 117.92092, z: -0.0034888792}
+  TargetPos: {x: -0.047209036, y: 0.075211614, z: -0.4502387}
+  CameraTransformPos: {x: -4.3001, y: 3.27512, z: 1.8035393}
+  CameraTransformRot: {x: 0.14908114, y: 0.8202105, z: -0.24778181, w: 0.49359262}
+  CameraDistance: 5.7797956
+  OrthographicMainView: 0
+  OrthoViews: 0
+  OrthoTransformPos: {x: 0, y: 0.1, z: 0}
+  OrthoTransformRot: {x: -0, y: -0, z: -0, w: 1}
+  OrthoSize: 0
+  OrthoAngle: 0
+  OrthoDistance: 0
+  IsLocked: 1

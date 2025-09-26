@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c68ad8606242d3540a121d474a013f32
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/3DPrefabs/GripperRobot.prefab
+  uploadId: 780727

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e018c5777899f647aacaeb1e5da73e2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RenderFeatures/MultiObjectOverlay/Resources/OverlayHighlight
+    1.mat
+  uploadId: 780727

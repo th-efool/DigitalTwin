@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce84a26d3eed3a48a9e8d4c94866b79, type: 3}
+  m_Name: EditorGizmoOptionsDefalut
+  m_EditorClassIdentifier: 
+  HoverMeshColor: {r: 1, g: 0, b: 0.53705597, a: 1}
+  FirstSelectedMeshColor: {r: 1, g: 0, b: 0.5372549, a: 1}
+  SecondSelectedMeshColor: {r: 1, g: 0.90511477, b: 0, a: 1}
+  DefaultColorSelectionSphere: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
+  ActiveButtonBackground: {r: 0.735849, g: 0, b: 0.4415097, a: 1}
+  KT_HoverMeshColor: {r: 0.49019608, g: 0, b: 0.8352941, a: 1}
+  KT_SelectedMeshColor: {r: 1, g: 0, b: 0.8354292, a: 0.15686275}
+  AxisColor: {r: 1, g: 0, b: 0.6, a: 1}
+  AxisColorSecondaryAxis: {r: 1, g: 0, b: 0.8352941, a: 0.15686275}
+  MeshColorConnectedAxis: {r: 1, g: 0.88708985, b: 0, a: 0.16078432}
+  MeshColorUpperAxis: {r: 1, g: 0.8862745, b: 0, a: 0.16078432}
+  SelectedMeshes: []

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ffa135950967e0944b8f48f42da25a39
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DemoDriveRaycastLimit.unity
+  uploadId: 780727

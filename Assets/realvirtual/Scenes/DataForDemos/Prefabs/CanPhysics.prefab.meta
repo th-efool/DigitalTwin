@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d9bf4b2d7ea855489da6f8184f5aa46
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/CanPhysics.prefab
+  uploadId: 780727

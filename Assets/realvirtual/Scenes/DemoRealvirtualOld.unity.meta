@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bc11d1b623600f48b3eb646f92173e9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DemoRealvirtualOld.unity
+  uploadId: 780727

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e00243fe9d3455e45bbb5210b8e32104
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/MovingTransportSurface/LightingData.asset
+  uploadId: 780727

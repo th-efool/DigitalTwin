@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ae8847dfe1a6e44fb1b6d253524f80b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/PathSystem/PathSystem.prefab
+  uploadId: 780727

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e18792da072de2f42a4f5ccbffeee768
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Interfaces/S7TCPIP/realvirtual.interfaces.s7tcpip.asmdef
+  uploadId: 780727

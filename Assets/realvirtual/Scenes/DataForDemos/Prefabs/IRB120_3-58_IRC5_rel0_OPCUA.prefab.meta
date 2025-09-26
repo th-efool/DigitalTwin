@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72acdd1b4350228468dec219e95d59cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/IRB120_3-58_IRC5_rel0_OPCUA.prefab
+  uploadId: 780727

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52416a7ed23a35949a7b2e50055c139c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/IRB2600ID_15kg-185_LINK3_CAD_rev02.STEP.prefab
+  uploadId: 780727

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f72a0da6ae380474d9fd8e77e4bec823
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/Editor/ComponentValidation/ComponentValidation.md
+  uploadId: 780727

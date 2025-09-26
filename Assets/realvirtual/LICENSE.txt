@@ -1,0 +1,89 @@
+ realvirtual.io Framework for Unity
+ Copyright 2019 in2sight GmbH (https://realvirtual.io)
+
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+  
+A)   QuicktToggle, copyright SubjectNerd,
+     which is available under MIT license.
+     For details see https://github.com/SubjectNerd-Unity/QuickToggle
+     
+B)   Sharp7,  copyright Davide Nardella. It was
+     individually licensed from Davide Nardella to in2sight GmbH under the Apache 2.0 license.
+     For details on Sharp7 see http://snap7.sourceforge.net/ 
+     
+C)   SpaceNavigator, copyright Patrick Hogenboom. It is available on Github under
+     https://github.com/PatHightree/SpaceNavigator
+     
+D)   UnityRuntimeInspector, copyright Süleyman Yasir KULA,
+     which is available under MIT license.
+     For details see UnityRuntimeInspector https://github.com/yasirkula/UnityRuntimeInspector
+     
+E)   NaughtyAttributes, copyright Denis Rizov,
+     which is available under MIT license.
+     For details see https://github.com/dbrizov/NaughtyAttributes
+     
+F)   Ionic.Zip, copyright Peter Dolkens,
+     which is available under Microsoft Public License (Ms-PL).
+     For details see https://www.nuget.org/packages/Ionic.Zip/
+               
+G)   Surge Framework, copyright Bob Berkebile - pixelplacement.com   
+     which is available under MIT license
+     
+H)   (Only part of realvirtual.io Professional) RoboDK-API, copyright RoboDK Inc. It is available on Github under
+     https://github.com/RoboDK/RoboDK-API
+     
+I)   (Only part of realvirtual.io Professional) thremf, copyright IxMilia,
+     which is available under MIT license.
+     For details see  https://github.com/ixmilia/threemf
+     
+J)   ExcelDataReader, copyright by ExcelDataReader,
+     which is available under MIT license.
+     For details see https://github.com/ExcelDataReader/ExcelDataReader?tab=MIT-1-ov-file
+     
+K)   (Only part of realvirtual.io Professional) LibUA, copyright Nauful,
+     which is available under Apache License 2.0.
+     For details see https://github.com/nauful/LibUA/
+     
+L)   (Only part of realvirtual.io Professional) lipblctag.NET,
+     which is available under Mozilla Public License Version 2.0
+     For details see https://github.com/libplctag/libplctag.NET
+       
+M)   (Only part of realvirtual.io Professional)  OpenCASCADE, copyright by Open CASCADE Technology software
+     which is available under Open CASCASE exception to GNU LGPL version 2.1.
+           
+                Open CASCADE exception (version 1.0) to GNU LGPL version 2.1.
+                
+                The object code (i.e. not a source) form of a "work that uses the Library"
+                can incorporate material from a header file that is part of the Library.
+                As a special exception to the GNU Lesser General Public License version 2.1,
+                you may distribute such object code incorporating material from header files
+                provided with the Open CASCADE Technology libraries (including code of CDL
+                generic classes) under terms of your choice, provided that you give
+                prominent notice in supporting documentation to this code that it makes use
+                of or is based on facilities provided by the Open CASCADE Technology software.
+                
+      For details see https://dev.opencascade.org
+      
+N)  (Only part of realvirtual.io Professional) UnityMeshSimplifier by Mattias Edlund,
+     which is available under MIT license.
+     For details see https://github.com/Whinarn/UnityMeshSimplifier
+     
+O)  MathNet.Numerics, copyright Math.NET, which is available under MIT license.
+    For details see https://github.com/mathnet/mathnet-numerics
+    
+P)  websocket-sharp, copyright sta.blockhead, which is available under MIT license.
+    For details see https://github.com/sta/websocket-sharp/tree/master
+    
+Q)  MQTTNet, copyright .NET Foundation and Contributors.
+    For details see https://github.com/dotnet/MQTTnet
+    
+R)  (Only part of realvirtual.io Professional) SDFTextureGenerator, Copyright (c) 2021 Carl Emil Carlsen (https://cec.dk)
+    which is available under MIT license.
+    For details see https://github.com/cecarlsen/SDFTextureGenerator
+    
+S)  (Only part of realvirtual.io Professional) NativeWebsocket, copyright Copyright (c) 2025 Endel Dreyer, which is available under MIT license
+    as part of the Colyseus SDK https://github.com/colyseus/colyseus-unity-sdk
+    
+T)  UnityIngameDebugConsole, copyright by Süleyman Yasir KULA, which is available under MIT license.
+    For details see https://github.com/yasirkula/UnityIngameDebugConsole

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e36faa4ed8e59bc44a7a58a1e7f03341
+timeCreated: 1505906610
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/RuntimeInspector/Scripts/RuntimeInspector/Helpers/WindowDragHandler.cs
+  uploadId: 780727

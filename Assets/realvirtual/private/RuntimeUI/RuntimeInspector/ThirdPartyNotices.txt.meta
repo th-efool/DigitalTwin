@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1253702d65d5a64eae7a7069acd9513
+timeCreated: 1520722166
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/private/RuntimeUI/RuntimeInspector/ThirdPartyNotices.txt
+  uploadId: 780727

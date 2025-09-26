@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d85e0d93c4308a48bd73399ce636a33
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Scenes/DataForDemos/Prefabs/PerformanceTestCell.prefab
+  uploadId: 780727

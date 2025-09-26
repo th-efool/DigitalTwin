@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3afe58d44750d24fa836e9d081fe7ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/Settings/RealvirtualUILightSkin.asset
+  uploadId: 780727

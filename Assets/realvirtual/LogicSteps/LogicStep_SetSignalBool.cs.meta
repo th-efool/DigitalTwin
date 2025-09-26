@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ec0a1a478507cc4097d4620f6985548
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/LogicSteps/LogicStep_SetSignalBool.cs
+  uploadId: 780727

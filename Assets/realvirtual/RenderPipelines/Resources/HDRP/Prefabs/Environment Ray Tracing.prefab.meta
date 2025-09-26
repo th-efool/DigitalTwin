@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e489d9e7bef23d44addb6f1c70b2766
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303030
+  packageName: realvirtual.io Digital Twin Starter 6
+  packageVersion: 6.0.3.7690
+  assetPath: Assets/realvirtual/RenderPipelines/Resources/HDRP/Prefabs/Environment
+    Ray Tracing.prefab
+  uploadId: 780727
