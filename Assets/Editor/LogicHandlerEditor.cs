@@ -1,6 +1,7 @@
 
-using UnityEngine;
+using Codice.CM.Common.Serialization.Replication;
 using UnityEditor;
+using UnityEngine;
 /*
 [CustomEditor(typeof(LogicHandler))]
 public class LogicHandlerEditor : Editor
@@ -20,13 +21,11 @@ public class LogicHandlerEditor : Editor
 */
 
 using UnityEngine;
-using UnityEditor;
 
 [CustomEditor(typeof(LogicHandler))]
 public class LogicHandlerEditor : Editor
 {
-    private string inputString = "";
-
+    private int inputInt = 0;
     public override void OnInspectorGUI()
     {
         DrawDefaultInspector();
@@ -37,36 +36,21 @@ public class LogicHandlerEditor : Editor
         EditorGUILayout.LabelField("Spawn LogicExecutioner", EditorStyles.boldLabel);
 
         // Input field as comma-separated floats
-        inputString = EditorGUILayout.TextField("Custom Positions (comma)", inputString);
+        inputInt = EditorGUILayout.IntField("ObjectIndex", inputInt);
 
-        if (GUILayout.Button("Spawn with Custom Positions"))
+
+        
+        if (GUILayout.Button("Drop Object In Container"))
         {
-            float[] positions = ParseInput(inputString);
-            if (positions != null && positions.Length == handler.Axis.Length)
-            {
-                handler.SpawnLogicExecutioner(positions);
-            }
-            else
-            {
-                Debug.LogError("Invalid input! Make sure you enter exactly " + handler.Axis.Length + " floats separated by commas.");
-            }
+            handler.SpawnLogicExecutioner(handler.DestinationContainer, false);
         }
 
-        if (GUILayout.Button("Spawn with Default Positions"))
+   
+        if (GUILayout.Button("Pick Object"))
         {
-            handler.SpawnLogicExecutioner(handler.DestinationContainer);
+            handler.SpawnLogicExecutioner(handler.AllPositions[inputInt].values, true);
         }
     }
 
-    private float[] ParseInput(string input)
-    {
-        string[] parts = input.Split(',');
-        float[] result = new float[parts.Length];
-        for (int i = 0; i < parts.Length; i++)
-        {
-            if (!float.TryParse(parts[i], out result[i]))
-                return null; // parsing failed
-        }
-        return result;
-    }
+
 }

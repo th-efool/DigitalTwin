@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 1489283776424854437}
   - component: {fileID: 2213229354872937755}
   m_Layer: 0
-  m_Name: LogicExec DriveTo_Interact
+  m_Name: LogicExecDropDriveTo_Interact
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
